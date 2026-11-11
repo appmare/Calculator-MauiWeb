@@ -10,6 +10,8 @@ the app's own C#.
 | --- | --- | --- |
 | ![Calculator](docs/calculator-start.png) | ![Seven](docs/calculator-7.png) | ![Phone](docs/calculator-phone.png) |
 
+**Try it live:** https://live.mauiweb.appmare.com/calculator (also in the [MauiWeb live gallery](https://mauiweb.appmare.com/gallery.html)'s Samples section).
+
 ## Run it
 
 Requirements: the .NET 11 SDK and the .NET MAUI 11 workload (`dotnet workload install maui`).
